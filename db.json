@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "f837",
+      "name": "Producto 1",
+      "price": "30",
+      "image": "https://avatars.mds.yandex.net/i?id=5510a852f5ec1c40d7650b0e7ccf1e03361d630c-6946765-images-thumbs&n=13"
+    },
+    {
+      "id": "b6f1",
+      "name": "Otro producto",
+      "price": "423",
+      "image": "https://avatars.mds.yandex.net/i?id=7eaf731c223ea792bd6baeb80eebceb348868831-12884907-images-thumbs&n=13"
+    },
+    {
+      "id": "b72b",
+      "name": "Otro más",
+      "price": "68",
+      "image": "https://avatars.mds.yandex.net/i?id=697aede2f571d3d9755f884b7034b178b12a6f09-10813564-images-thumbs&n=13"
+    }
+  ]
+}
